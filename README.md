@@ -32,11 +32,6 @@ The dataset is organized within the "data" folder and consists of several subfol
 ### 📂 src
 - `data.py`: Python file containing code to generate the dataset based on real-world data.
 
-## 💡 Usage
-This dataset can be used for various purposes, including:
 
-- Developing and evaluating machine learning models for financial fraud detection.
-- Conducting research on fraud detection algorithms and techniques.
-- Training data analysts and data scientists on fraud detection methodologies.
-
-Feel free to use this dataset in your projects, experiments, or research. You are encouraged to create notebooks or other analysis tools to explore and visualize the data. If you find the dataset useful, please consider upvoting to show your support.
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
