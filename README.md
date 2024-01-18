@@ -60,7 +60,7 @@ The dataset is organized within the "data" folder and consists of several subfol
 To use Rock Fraud Detection System, follow these steps:
 
 1. Clone the repository:
-```git clone https://github.com/your-username/rock-fraud-detection.git
+```git clone https://github.com/manikantpandey/RJPOLICE_HACK_620_Phoenix_7.git
 ```
 2. Install dependencies:
 ```pip install -r requirements.txt
